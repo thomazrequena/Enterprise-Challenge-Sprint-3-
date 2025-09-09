@@ -59,7 +59,7 @@ Cada tabela é populada com >=500 registros sintéticos, garantindo diversidade 
 Os dados são hipotéticos e servem apenas para fins acadêmicos.
 O script pode ser ajustado para gerar mais dados (alterando N_MIN).
 
-🔗 Repositório: Enterprise-Challenge-Sprint-3-
+🔗 Repositório: https://github.com/thomazrequena/Enterprise-Challenge-Sprint-3-
 
 ## ▶️ Como Executar
 1. Clone o repositório:

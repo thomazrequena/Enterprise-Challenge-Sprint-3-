@@ -52,8 +52,14 @@ O diagrama abaixo mostra as principais entidades e relacionamentos utilizados:
 - **SQL Developer / SQL Data Modeler**
   - Criação e visualização do modelo ER
   - Execução de DDL e DML
-
 ---
+📌 Observações
+
+Cada tabela é populada com >=500 registros sintéticos, garantindo diversidade e consistência.
+Os dados são hipotéticos e servem apenas para fins acadêmicos.
+O script pode ser ajustado para gerar mais dados (alterando N_MIN).
+
+🔗 Repositório: Enterprise-Challenge-Sprint-3-
 
 ## ▶️ Como Executar
 1. Clone o repositório:
